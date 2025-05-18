@@ -1,0 +1,11 @@
+nltk
+emoji
+requests
+beautifulsoup4
+transformers
+torch
+scikit-learn
+tqdm
+ipywidgets
+pandas
+gensim
